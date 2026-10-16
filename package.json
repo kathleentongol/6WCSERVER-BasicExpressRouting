@@ -1,0 +1,17 @@
+{
+  "name": "basic-express-routing",
+  "version": "1.0.0",
+  "description": "Coffee shop website for the WCServer Basic Express Routing laboratory activity",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.3.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
